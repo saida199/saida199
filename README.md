@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hi, I'm Saïda — a versatile and creative developer & UI/UX designer who enjoys turning ideas into concrete projects.  
+Hi, I'm Saïda, a versatile and creative developer & UI/UX designer who enjoys turning ideas into concrete projects.  
 I work end-to-end: from concept, marketing, design, and wireframing to front-end and back-end development.
 
-Recently, I’ve started exploring 3D creation and I have a strong interest in Artificial Intelligence.  
+Recently, I’ve started exploring 3D creation and I have a strong interest in AI.  
 I’m currently taking online courses to continuously improve my skills and stay up to date with new technologies.
 
 Currently working as a freelancer, I’m looking to join a dynamic team to take on new challenges, grow professionally, and bring my creativity and personal touch to ambitious projects.
