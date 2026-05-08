@@ -12,7 +12,7 @@ Currently working as a freelancer, I’m looking to join a dynamic team to take 
 [![Instagram](https://img.shields.io/badge/Instagram-@slkvd_-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saida%20Koci-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saida-koci-159a14220/)
 
-# 💻 Tech Stack 💖:# 💻 Tech Stack 💖
+# 💻 Tech Stack 💖:
 
 ![C](https://img.shields.io/badge/C-ffb6c1?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-ff69b4?style=flat&logo=c%2B%2B&logoColor=white)
