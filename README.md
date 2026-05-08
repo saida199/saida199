@@ -7,10 +7,12 @@ I’m currently taking online courses to continuously improve my skills and stay
 
 Currently working as a freelancer, I’m looking to join a dynamic team to take on new challenges, grow professionally, and bring my creativity and personal touch to ambitious projects.
 
-# 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-sai99__-FF69B4?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-@slkvd_-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saida%20Koci-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saida-koci-159a14220/)
+# 🌐 Socials
+
+<img src="https://img.shields.io/badge/Discord-sai99__-ff69b4?style=flat&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-@slkvd_-ff1493?style=flat&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Saida%20Koci-ff69b4?style=flat&logo=linkedin&logoColor=white" />
+
 
 # 💻 Tech Stack 💖:
 
