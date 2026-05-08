@@ -9,9 +9,18 @@ Currently working as a freelancer, I’m looking to join a dynamic team to take 
 
 # 🌐 Socials
 
-<img src="https://img.shields.io/badge/Discord-sai99__-ff69b4?style=flat&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/Instagram-@slkvd_-ff1493?style=flat&logo=instagram&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-Saida%20Koci-ff69b4?style=flat&logo=linkedin&logoColor=white" />
+<a href="https://discord.com/users/tonID" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-sai99__-ff69b4?style=flat&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/slkvd_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@slkvd_-ff1493?style=flat&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/saida-koci-159a14220/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Saida%20Koci-ff69b4?style=flat&logo=linkedin&logoColor=white" />
+</a>
+
 
 
 # 💻 Tech Stack 💖:
