@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Saïda, a versatile and creative developer & UI/UX designer who enjoys turning ideas into concrete projects.  
 I work end-to-end: from concept, marketing, design, and wireframing to front-end and back-end development.
 
@@ -21,7 +21,7 @@ Currently working as a freelancer, I’m looking to join a dynamic team to take 
 
 
 
-# 💻 Tech Stack 💖:
+# Tech Stack 💖:
 
 ![C](https://img.shields.io/badge/C-ffb6c1?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-ff69b4?style=flat&logo=c%2B%2B&logoColor=white)
@@ -56,7 +56,7 @@ Currently working as a freelancer, I’m looking to join a dynamic team to take 
 ![PowerShell](https://img.shields.io/badge/PowerShell-ffb6c1?style=flat&logo=powershell&logoColor=white)
 
 
-# 🚀 Goals:
+# Goals:
 - Join a dynamic team  
 - Work on ambitious and creative projects  
 - Keep learning, especially in AI and 3D 💖
