@@ -1,11 +1,8 @@
 # About Me:
-Hi, I'm Saïda, a versatile and creative developer & UI/UX designer who enjoys turning ideas into concrete projects.  
-I work end-to-end: from concept, marketing, design, and wireframing to front-end and back-end development.
+Hi, I’m Saïda, a creative and versatile developer currently working as a **C# developer at Mojovida**, where I develop software solutions for large retail companies.
 
-Recently, I’ve started exploring 3D creation and I have a strong interest in AI.  
-I’m currently taking online courses to continuously improve my skills and stay up to date with new technologies.
+Alongside my professional work, I build personal projects mainly in **Rust and Java**, and I’m exploring **robotics and embedded systems through Raspberry Pi projects**. I’m always learning, experimenting, and discovering new technologies, with a growing interest in **AI and 3D creation**.
 
-Currently working as a freelancer, I’m looking to join a dynamic team to take on new challenges, grow professionally, and bring my creativity and personal touch to ambitious projects.
 
 
 # Tech Stack 💖:
