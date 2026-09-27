@@ -41,6 +41,5 @@ Alongside my professional work, I build personal projects mainly in **Rust and J
 
 
 # Goals:
-- Join a dynamic team  
 - Work on ambitious and creative projects  
-- Keep learning, especially in AI and 3D 💖
+- Keep learning 💖
